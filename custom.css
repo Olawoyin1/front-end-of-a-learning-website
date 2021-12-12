@@ -40,7 +40,7 @@ body{
 }
 
 .btn3:hover{
-    background-color: rgb(255, 0, 0);
+    background-color: #ff0000;
     font-weight: bold;
 }
 
@@ -106,6 +106,7 @@ li a{
 
 li a:hover{
     font-weight: bolder;
+    color: #ff0000;
 }
 
 .checkbtn{
@@ -132,7 +133,7 @@ li a:hover{
 
 /*SHOWCASE*/
 .showcase{
-    background-image: url('/Showcase.jpeg');
+    background-image: url('/images/Showcase.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -199,7 +200,7 @@ li a:hover{
     grid-area: large;
     min-height: 400px;
     box-shadow: 0px 2px 4px grey;
-    background-image: url('/ppp.jpg');
+    background-image: url('/images/ppp.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
